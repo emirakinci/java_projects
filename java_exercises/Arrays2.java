@@ -10,6 +10,16 @@ public class Arrays2 {
             System.out.println("array[" + index +"] = " + element);
             index++;
         }
+         /*
+         * or similarly
+         * 
+         * for(int i=0; i<array.length; i++)
+         * {
+         *      System.out.println("array[" + index +"] = " + array[i]);
+         
+         * }
+         * 
+         */
     }
     public static void main(String[] args) {
         int[] a = new int[5];
