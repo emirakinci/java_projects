@@ -13,7 +13,7 @@ public class Arrays2 {
          /*
          * or similarly
          * 
-         * for(int i=0; i<array.length; i++)
+         * for(int i=0; i<array.length; i++, index++)
          * {
          *      System.out.println("array[" + index +"] = " + array[i]);
          
